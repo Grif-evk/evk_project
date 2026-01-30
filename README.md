@@ -2,9 +2,9 @@
 Documentation
 ## Move Tools
 ### Move Tool
-Explanation text here.
+The Move tool is used to reposition the parts of your content that you have selected. 
 ### Artboard Tool
-Explanation text here.
+Use the Artboard tool to create and edit Artboards.
 ## Marquee Tool
 ### Rectangular Marquee Tool
 Explanation text here.
