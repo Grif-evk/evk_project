@@ -1,7 +1,6 @@
 # Adobe Photoshop Features list
 Documentation
 ## Move Tools
-Explanation text here.
 ### Move Tool
 Explanation text here.
 ### Artboard Tool
