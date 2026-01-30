@@ -164,4 +164,3 @@ Explanation text here.
 ## Zoom Tools
 # Zoom Tool
 Explanation text here.
-Zoom Tool
